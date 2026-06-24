@@ -45,8 +45,8 @@ def fetch_ratio(ticker, ratio):
     ticker : str
         Ticker symbol from /v1/indices, e.g. 'NDX', 'FTSE', 'DAX'.
     ratio : str
-        One of: 'pe-trailing', 'pe-forward', 'cape', 'pb',
-        'dividend-yield', 'ev-ebitda'.
+        One of: 'pe-trailing', 'pe-forward', 'cape',
+        'dividend-yield'.
 
     Returns
     -------
