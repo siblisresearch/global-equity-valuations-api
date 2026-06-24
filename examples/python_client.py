@@ -1,5 +1,5 @@
 """
-Siblis Free API — Python client example.
+Global Equity Valuations Database Free API — Python client example.
 
 Demonstrates how to fetch equity valuation ratios from the public
 Siblis free API. No authentication required. Runs as-is with Python
